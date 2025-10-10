@@ -23,9 +23,7 @@
 - Experiências de aprendizado como iniciante  
 
 📫 **Como me encontrar:**  
-- [Seu LinkedIn]  
-- [Seu Twitter ou Email]  
-
+- Ainda vou por >:( 
 
 ⚡ **Curiosidade:**  
 - Amo histórias épicas e misteriosas, inspiração de jogos como *Dark Souls, Elden Ring* e séries como *Game of Thrones*.
