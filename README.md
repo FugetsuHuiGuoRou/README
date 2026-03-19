@@ -24,7 +24,18 @@
 ## ⚙️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,git" />
+</p>
+
+<!-- OPCIONAL: Se quiser incluir também -->
+<!-- Nuvem (AWS), DevOps (Docker), GameMaker -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
+
+<p align="center">
+  🎮 GameMaker Studio
 </p>
 
 ---
