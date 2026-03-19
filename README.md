@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Guilherme  
  
-💻 Explorando a área de **programação**, com interesse em **Python**, **DevOps**, **Cloud Computing** e **Desenvolvimento de Jogos**
+💻 Explorando a área de **tecnologia**, com interesse em **Python**, **DevOps**, **Cloud Computing** e **Desenvolvimento de Jogos**
 
 ---
 
